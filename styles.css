@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+#Main-Container{
+	padding:10px;
+	background-color: #f5f5f5;
+	padding-bottom:50px;
+}
+#firstBox,#secondBox{
+	display:flex;
+	justify-content:space-between;
+	padding:25px;
+	background-color:white;
+	box-shadow: 2px 2px 10px black;
+	margin:15px;
+}
+#author{
+	text-align:right;
+	font-style:italic;
+} 
